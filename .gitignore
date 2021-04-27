@@ -4,6 +4,6 @@
 build/
 nbbuild/
 dist/
-lib/
+lib/CopyLibs/nblibraries.properties
 nbdist/
 .nb-gradle/
